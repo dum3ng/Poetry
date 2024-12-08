@@ -1,0 +1,15 @@
+{
+  "name": "Poetry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate:author": "bun run ./scripts/generateAuthors.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.11"
+  }
+}
